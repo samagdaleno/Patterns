@@ -1,0 +1,6 @@
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\bin\Debug\Factory Pattern.exe.config
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\bin\Debug\Factory Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\bin\Debug\Factory Pattern.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\obj\Debug\Factory Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\obj\Debug\Factory Pattern.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Factory Pattern\obj\Debug\Factory Pattern.csprojResolveAssemblyReference.cache

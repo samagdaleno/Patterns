@@ -1,0 +1,9 @@
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Adapter Pattern.exe.config
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Adapter Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Adapter Pattern.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Newtonsoft.Json.dll
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Newtonsoft.Json.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\bin\Debug\Newtonsoft.Json.xml
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\obj\Debug\Adapter Pattern.csprojResolveAssemblyReference.cache
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\obj\Debug\Adapter Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Adapter Pattern\obj\Debug\Adapter Pattern.pdb

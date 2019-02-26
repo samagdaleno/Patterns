@@ -1,0 +1,6 @@
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\bin\Debug\Singleton Example.exe.config
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\bin\Debug\Singleton Example.exe
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\bin\Debug\Singleton Example.pdb
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\obj\Debug\Singleton Example.csprojResolveAssemblyReference.cache
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\obj\Debug\Singleton Example.exe
+c:\users\conate\documents\visual studio 2015\Projects\Singleton Example\Singleton Example\obj\Debug\Singleton Example.pdb

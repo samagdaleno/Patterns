@@ -1,0 +1,6 @@
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\bin\Debug\Builder Pattern.exe.config
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\bin\Debug\Builder Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\bin\Debug\Builder Pattern.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\obj\Debug\Builder Pattern.csprojResolveAssemblyReference.cache
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\obj\Debug\Builder Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Builder Pattern\obj\Debug\Builder Pattern.pdb

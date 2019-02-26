@@ -1,0 +1,6 @@
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\bin\Debug\Template Method Pattern.exe.config
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\bin\Debug\Template Method Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\bin\Debug\Template Method Pattern.pdb
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\obj\Debug\Template Method Pattern.csprojResolveAssemblyReference.cache
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\obj\Debug\Template Method Pattern.exe
+c:\Users\conate\documents\visual studio 2015\Projects\Singleton Example\Template Method Pattern\obj\Debug\Template Method Pattern.pdb
